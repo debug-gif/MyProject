@@ -1,1 +1,2 @@
-# MyProjectThis is a respository that records the codes I've writen while learning Java
+# MyProject
+This is a respository that records the codes I've writen while learning Java
